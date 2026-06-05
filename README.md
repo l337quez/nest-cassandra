@@ -1,5 +1,7 @@
 # @l337quez/nest-cassandra
 
+![Nest Cassandra Portada](https://github.com/l337quez/nest-cassandra/raw/main/assets/nest-cassandra.png)
+
 > A **Typegoose-style** NestJS library for Apache Cassandra & ScyllaDB.  
 > Decorator-driven, type-safe, built directly on the official `cassandra-driver` — zero `express-cassandra` dependency.
 
